@@ -1,0 +1,3 @@
+Once My Emacs For Common Lisp 0.2rc1 installed, copy all files in this directory to the installation directory and overwrite the origin files.
+
+This patch makes `grep directory', `grep directory recursively' work.
